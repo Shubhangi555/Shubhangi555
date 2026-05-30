@@ -11,10 +11,6 @@
 ## 👨🏻‍💻 About Me:
 
 <!-- <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" /> -->
-<img align="right" alt="Female Developer" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<img align="right" alt="Woman Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<img align="right" alt="Developer Girl" width="350" src="https://user-images.githubusercontent.com/74038190/216655810-8a6a7f8e-548a-4fc0-8f35-2b7c7d4b0f5b.gif">
-<img align="right" alt="Female Programmer" width="350" src="https://user-images.githubusercontent.com/74038190/212744275-2f5d0d68-bac1-4a89-96f6-d5e2f0d6b7f2.gif">
 
 - 🙋‍♂️ All about me is at **[My Website](https://shubhangibhosale.vercel.app/)**
 
