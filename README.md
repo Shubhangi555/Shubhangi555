@@ -67,6 +67,6 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Shubhangi555&show_icons=true&theme=tokyonight" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhangi555&theme=tokyonight" alt="Shubhangi" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Shubhangi555&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhangi555&" alt="Shubhangi" />
 </div>
