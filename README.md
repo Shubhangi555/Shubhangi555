@@ -85,11 +85,11 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Shubhangi555&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shubhangi555&layout=compact&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubhangi555&theme=tokyo-night)
 
 
 ## 📊 My GitHub Data:
