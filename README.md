@@ -14,19 +14,22 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://shubhangibhosale.vercel.app/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+* 💼 Frontend Developer with professional experience in React ecosystem
 
-- 🌱 I’m currently learning `MERN Stack`
+* ⚛️ Building modern web applications using React, TypeScript, Redux, and REST APIs
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+* 🌱 Currently exploring Next.js, performance optimization, and scalable frontend architecture
 
-- 🤔 I’m looking for help with `Competitive Programming`
+* 🚀 Passionate about clean code, reusable components, and great user experiences
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+* 🤝 Always interested in learning, sharing knowledge, and collaborating with fellow developers
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+* 💬 Let's talk about React, JavaScript, Frontend Development, and UI Engineering
 
-- ⚡ Fun fact: I waste most of my time playing games
+* 🎯 Focused on writing maintainable, scalable, and high-quality code
+
+* ⚡ Fun Fact: I can spend hours perfecting a UI pixel by pixel
+
 
 ## 🛠️ Technologies and Tools I use:
 
