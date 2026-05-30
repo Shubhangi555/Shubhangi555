@@ -10,7 +10,8 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<!-- <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" /> -->
+<img align="right" width="350" src="https://cdn.dribbble.com/users/.../developer.gif" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://shubhangibhosale.vercel.app/)**
 
