@@ -62,7 +62,7 @@
 
 ## ❤️ Let's get connected:
 
-<p><a href="https://shubhangibhosale.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Shubhangi555.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://www.linkedin.com/in/shubhangi-bhosale-853144244/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://shubhangibhosaleblogs.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a>
+<p><a href="https://shubhangibhosale.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0F0E0C?style=for-the-badge&logo=vercel&logoColor=white" height="30px" /></a> <a href="https://www.linkedin.com/in/shubhangi-bhosale-853144244/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://shubhangibhosaleblogs.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a>
 </p>
 
 
@@ -70,5 +70,5 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Shubhangi555&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhangi555&" alt="Shubhangi" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=Shubhangi555" alt="Shubhangi" />
 </div>
