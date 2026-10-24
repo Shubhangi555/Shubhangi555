@@ -17,8 +17,10 @@
 * 💼 Frontend Developer with professional experience in React ecosystem
 
 * ⚛️ Building modern web applications using React, TypeScript, Redux, and REST APIs
-
-* 🌱 Currently exploring Next.js, performance optimization, and scalable frontend architecture
+  
+* ⚡ Hands-on with real-time features (SSE & WebSocket), reusable components, custom hooks and frontend performance optimization
+  
+* 🌱 Currently exploring scalable frontend architecture and full-stack development
 
 * 🚀 Passionate about clean code, reusable components, and great user experiences
 
